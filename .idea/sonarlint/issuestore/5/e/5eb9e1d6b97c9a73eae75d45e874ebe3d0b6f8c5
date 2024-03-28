@@ -1,0 +1,8 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(“ëéû8™íæè1
+_
+java:S1128"BRemove this unused import 'javax.servlet.http.HttpServletRequest'.(ø©¹…8£íæè1
+`
+java:S1128"CRemove this unused import 'javax.servlet.http.HttpServletResponse'.(Á¨ïë8£íæè1
+M
+java:S1128"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8£íæè1
