@@ -39,7 +39,7 @@ public class JwtAuthorizationFilter extends BasicAuthenticationFilter {
         System.out.println("JWTheader = " + JWTheader);
 
         // header 가 있는지 확인
-        if (JWTheader == null || !JWTheader.startsWith("Bearer")) {
+        if (JWTheader == null || !JWTheader.startsWith("Bearer")) { 
             chain.doFilter(request, response);
             return;
         }

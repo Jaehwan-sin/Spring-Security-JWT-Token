@@ -24,7 +24,7 @@ import java.sql.Date;
 // UsernamePasswordAuthenticationFilter 동작을 함.
 @RequiredArgsConstructor
 public class JwtAuthenticationFilter extends UsernamePasswordAuthenticationFilter {
-
+ 
     private final AuthenticationManager authenticationManager;
 
     @Override
