@@ -1,2 +1,7 @@
 
-L	java:S106"+Replace this use of System.out by a logger.(€ı‚Ïüÿÿÿÿ8¯ª§è1
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·´ÄÁ8ºä¤¨è1
+m	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ëÁ˜ù8ºä¤¨è1
+L	java:S106$"+Replace this use of System.out by a logger.(€ı‚Ïüÿÿÿÿ8Ãä¤¨è1
+L	java:S106'"+Replace this use of System.out by a logger.(Æ£Ñ¶şÿÿÿÿ8Ää¤¨è1
+S
+java:S64372"6Revoke and change this password, as it is compromised.(á«–¶8Åä¤¨è1
