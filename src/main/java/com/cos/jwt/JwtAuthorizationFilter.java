@@ -2,7 +2,7 @@ package com.cos.jwt;
 
 import com.auth0.jwt.JWT; 
 import com.auth0.jwt.algorithms.Algorithm;
-import com.cos.jwt.config.auth.PrincipalDetails;
+import com.cos.jwt.config.auth.PrincipalDetails; 
 import com.cos.jwt.model.User;
 import com.cos.jwt.repository.UserRepository; 
 import org.springframework.security.authentication.AuthenticationManager;
