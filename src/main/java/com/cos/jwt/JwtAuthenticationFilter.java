@@ -5,7 +5,7 @@ import com.auth0.jwt.algorithms.Algorithm;
 import com.cos.jwt.config.auth.PrincipalDetails;
 import com.cos.jwt.model.User;  
 import com.fasterxml.jackson.databind.ObjectMapper; 
-import lombok.RequiredArgsConstructor;   
+import lombok.RequiredArgsConstructor;    
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
